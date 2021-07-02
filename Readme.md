@@ -1,2 +1,2 @@
-Line B
+This will result in conflict
 
