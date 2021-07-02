@@ -1,2 +1,2 @@
-This will result in conflict
+This is my final line
 
